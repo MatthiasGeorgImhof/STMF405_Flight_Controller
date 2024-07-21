@@ -1,0 +1,279 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "081b6834-111b-4762-b46a-30e0e37972ed")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 121.92 31.75)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1019dc48-5bb9-42bb-a388-e689633fb2c2")
+		(property "Sheetname" "MCU"
+			(at 121.92 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "f405-fc-mcu_sch.kicad_sch"
+			(at 121.92 36.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STMF405_Flight_Controller"
+				(path "/081b6834-111b-4762-b46a-30e0e37972ed"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 167.64 69.85)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "39d8cef6-37d2-43ce-b220-2d4791532bef")
+		(property "Sheetname" "Power Monitor"
+			(at 167.64 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_monitor.kicad_sch"
+			(at 167.64 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STMF405_Flight_Controller"
+				(path "/081b6834-111b-4762-b46a-30e0e37972ed"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 86.36)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "76153728-af14-41aa-a10f-8724ab6d3ac7")
+		(property "Sheetname" "Pinout"
+			(at 123.19 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pinout.kicad_sch"
+			(at 123.19 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STMF405_Flight_Controller"
+				(path "/081b6834-111b-4762-b46a-30e0e37972ed"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 100.33)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7c76e8ac-775f-43e8-bf06-57d347549756")
+		(property "Sheetname" "Pinout with components"
+			(at 123.19 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pinout_w_components.kicad_sch"
+			(at 123.19 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STMF405_Flight_Controller"
+				(path "/081b6834-111b-4762-b46a-30e0e37972ed"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 69.85)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "af6f369d-1fd8-41dc-866b-caa92cb69317")
+		(property "Sheetname" "Power"
+			(at 121.92 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 121.92 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STMF405_Flight_Controller"
+				(path "/081b6834-111b-4762-b46a-30e0e37972ed"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 119.38)
+		(size 13.97 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d35f4183-2795-4792-8227-02977bf9fe52")
+		(property "Sheetname" "Extras"
+			(at 121.92 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "extras.kicad_sch"
+			(at 121.92 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STMF405_Flight_Controller"
+				(path "/081b6834-111b-4762-b46a-30e0e37972ed"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 53.34)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dcc3f7c4-80a1-4bbc-89df-0be29c9e2646")
+		(property "Sheetname" "Peripherals"
+			(at 121.92 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 121.92 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STMF405_Flight_Controller"
+				(path "/081b6834-111b-4762-b46a-30e0e37972ed"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

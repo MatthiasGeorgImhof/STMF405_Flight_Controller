@@ -1,0 +1,4 @@
+(version 0.1)
+(rule "through vias and microvias only"
+   (constraint disallow via)
+   (condition "A.Via_Type == 'Blind/buried'"))
