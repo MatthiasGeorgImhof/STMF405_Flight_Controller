@@ -5545,7 +5545,7 @@
 			(pintype "passive+no_connect")
 			(uuid "f3a59705-9d08-486b-b0d3-d4d5b103a219")
 		)
-		(model "${KIPRJMOD}/10155435-00011LF--3DModel-STEP-510211.STEP"
+		(model "${KIPRJMOD}/step/10155435-00011LF--3DModel-STEP-510211.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13302,7 +13302,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/CDBQC0130L-HF.STEP"
+		(model "${KIPRJMOD}/step/CDBQC0130L-HF.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13949,7 +13949,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/CDBQC0130L-HF.STEP"
+		(model "${KIPRJMOD}/step/CDBQC0130L-HF.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16945,7 +16945,7 @@
 		)
 		(fp_arc
 			(start 0.723714 -1.445998)
-			(mid 0.776937 -1.423889)
+			(mid 0.77694 -1.423891)
 			(end 0.799455 -1.37084)
 			(stroke
 				(width 0.127)
@@ -17048,7 +17048,7 @@
 			(pintype "bidirectional")
 			(uuid "372610f4-f305-4ed2-9fb0-cf9a96b0cd28")
 		)
-		(model "${KIPRJMOD}/DBV0005A.stp"
+		(model "${KIPRJMOD}/step/DBV0005A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17957,7 +17957,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/DPY0002A.stp"
+		(model "${KIPRJMOD}/step/DPY0002A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18344,7 +18344,7 @@
 			(pintype "input")
 			(uuid "849b68bd-db52-45b0-9a37-3c2c0120233b")
 		)
-		(model "${KIPRJMOD}/LGA14_2P5X3X0P91_TDK.step"
+		(model "${KIPRJMOD}/step/LGA14_2P5X3X0P91_TDK.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25793,7 +25793,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/CDBQC0130L-HF.STEP"
+		(model "${KIPRJMOD}/step/CDBQC0130L-HF.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34413,7 +34413,7 @@
 		)
 		(fp_arc
 			(start 0.723714 -1.445998)
-			(mid 0.776937 -1.423889)
+			(mid 0.77694 -1.423891)
 			(end 0.799455 -1.37084)
 			(stroke
 				(width 0.127)
@@ -34513,7 +34513,7 @@
 			(pintype "bidirectional")
 			(uuid "a4df1536-5db8-4dac-b098-36b3aceceedd")
 		)
-		(model "${KIPRJMOD}/DBV0005A.stp"
+		(model "${KIPRJMOD}/step/DBV0005A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37373,7 +37373,7 @@
 			(pintype "passive")
 			(uuid "21b45813-a9c7-4400-a25b-6496bbca7c15")
 		)
-		(model "${KIPRJMOD}/IND_DFE322520FD-4R7MP2_MUR.step"
+		(model "${KIPRJMOD}/step/IND_DFE322520FD-4R7MP2_MUR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40246,7 +40246,7 @@
 			(pintype "power_in")
 			(uuid "87c5238c-f894-4a6a-a86d-edbf51d46515")
 		)
-		(model "${KIPRJMOD}/IN-PI15_INL.step"
+		(model "${KIPRJMOD}/step/IN-PI15_INL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41445,7 +41445,7 @@
 			(pintype "power_in")
 			(uuid "727d2d50-7c84-489a-a150-4151341a55c4")
 		)
-		(model "${KIPRJMOD}/IN-PI15_INL.step"
+		(model "${KIPRJMOD}/step/IN-PI15_INL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42050,7 +42050,7 @@
 			(pintype "power_in")
 			(uuid "14b3453b-afd9-48cf-8c33-c4001a7c72bb")
 		)
-		(model "${KIPRJMOD}/IN-PI15_INL.step"
+		(model "${KIPRJMOD}/step/IN-PI15_INL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42881,7 +42881,7 @@
 			(pintype "power_in")
 			(uuid "f1693729-02bb-498f-87fd-8e81999a9424")
 		)
-		(model "${KIPRJMOD}/IN-PI15_INL.step"
+		(model "${KIPRJMOD}/step/IN-PI15_INL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44024,7 +44024,7 @@
 			)
 		)
 		(property "Footprint" "Project:TSSOP14_PW_TEX"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "64a86cd6-6081-48e1-8500-13ed07af2637")
@@ -44036,7 +44036,7 @@
 			)
 		)
 		(property "Datasheet" "TXU0304PWR"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "03e28e5a-cb2a-4111-b865-807165e77cdf")
@@ -44048,7 +44048,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d3e560a6-6849-45cd-bd2f-9bdd236b9624")
@@ -45033,7 +45033,7 @@
 			(pintype "power_in")
 			(uuid "0e91d131-02d4-40c8-b3b9-583e1c4cce72")
 		)
-		(model "${KIPRJMOD}/PW0014A.stp"
+		(model "${KIPRJMOD}/step/PW0014A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45682,7 +45682,7 @@
 			(pintype "passive")
 			(uuid "5153b6d7-9723-4ea4-9791-7cbf35cd6afa")
 		)
-		(model "/home/mgi/Data/kicad/STMF765_Flight_Controller/IND_DFE322520FD-4R7MP2_MUR.step"
+		(model "${KIPRJMOD}/step/IND_DFE322520FD-4R7MP2_MUR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50277,7 +50277,7 @@
 			(pintype "input")
 			(uuid "2331f270-88f0-44ce-b446-e5d2b702056b")
 		)
-		(model "${KIPRJMOD}/MT29F2G01ABAGDWB-IT_G.step"
+		(model "${KIPRJMOD}/step/MT29F2G01ABAGDWB-IT_G.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -53090,7 +53090,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "eef01e22-1c73-4d75-8ee0-d3e6fc4a054a")
 		)
-		(model "${KIPRJMOD}/DPS310XTSA1.step"
+		(model "${KIPRJMOD}/step/DPS310XTSA1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -53665,7 +53665,7 @@
 			)
 		)
 		(property "Footprint" "Project:SDO_0402C&slash_SOD-923F_CIP"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7143ffe2-1bcf-4a5a-8f6f-8946572afede")
@@ -53677,7 +53677,7 @@
 			)
 		)
 		(property "Datasheet" "CDBQC0130L-HF"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ffb9731c-c09f-4091-a8ed-b92e3e978c8f")
@@ -53689,7 +53689,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "583d5164-aa5f-4700-909e-52a3784fc709")
@@ -54004,7 +54004,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/CDBQC0130L-HF.STEP"
+		(model "${KIPRJMOD}/step/CDBQC0130L-HF.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -56071,7 +56071,7 @@
 			)
 		)
 		(property "Footprint" "Project:SOP65P640X120-29N"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "762662a6-50d0-4e52-89c1-b11caf4b42cb")
@@ -56083,7 +56083,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/ZHONGKEWEI-AT7456E_C82351.pdf"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5d888b63-ce28-4888-8ce2-2235948e218f")
@@ -56095,7 +56095,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "143dde18-cca1-4cd5-a5fd-36b83a68f5cf")
@@ -56522,7 +56522,7 @@
 			(pintype "passive")
 			(uuid "850f5ab8-f4e8-4136-ba55-68bedf55f597")
 		)
-		(model "${KIPRJMOD}/21-0108G_U28E-5_MXM.step"
+		(model "${KIPRJMOD}/step/21-0108G_U28E-5_MXM.step"
 			(offset
 				(xyz 0 0 0)
 			)
