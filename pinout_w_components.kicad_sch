@@ -4387,7 +4387,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RT0402BRD073K3L"
+		(property "Part Number" "RC0402JR-0710ML"
+			(at 119.38 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "DNP"
 			(at 119.38 153.67 0)
 			(effects
 				(font
@@ -4700,7 +4709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ESD351DPYR"
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fesd351"
 			(at 41.91 190.5 0)
 			(effects
 				(font
@@ -4933,7 +4942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "CDBQC0130L-HF"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CDBQC0130L-HF%20RevB681116.pdf"
 			(at 130.81 179.07 0)
 			(effects
 				(font
@@ -5360,7 +5369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX7R7BB104"
+		(property "Part Number" "CC0402KRX5R8BB104"
 			(at 163.83 48.26 0)
 			(effects
 				(font
@@ -5369,7 +5378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "25"
 			(at 163.83 48.26 0)
 			(effects
 				(font
@@ -5474,7 +5483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX7R7BB104"
+		(property "Part Number" "CC0402KRX5R8BB104"
 			(at 220.98 27.94 0)
 			(effects
 				(font
@@ -5483,7 +5492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "25"
 			(at 220.98 27.94 0)
 			(effects
 				(font
@@ -5948,7 +5957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RP0402BRD0722K1L"
+		(property "Part Number" "RC0402FR-070RL"
 			(at 119.38 143.51 0)
 			(effects
 				(font
@@ -6122,7 +6131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ESDS304DBVR"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/esds302.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1721661223795&ref_url=https%253A%252F%252Ficqqg.com%252F"
 			(at 48.26 135.89 0)
 			(effects
 				(font
@@ -6476,7 +6485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ESDS304DBVR"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/esds302.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1721661223795&ref_url=https%253A%252F%252Ficqqg.com%252F"
 			(at 48.26 54.61 0)
 			(effects
 				(font
@@ -6609,7 +6618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402JRX7R7BB101"
+		(property "Part Number" "CC0402JRNPO9BN101"
 			(at 209.55 50.8 0)
 			(effects
 				(font
@@ -6618,7 +6627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "50"
 			(at 209.55 50.8 0)
 			(effects
 				(font
@@ -7215,6 +7224,15 @@
 			)
 		)
 		(property "Part Number" "RC0402JR-0710ML"
+			(at 119.38 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "DNP"
 			(at 119.38 182.88 0)
 			(effects
 				(font
@@ -8024,7 +8042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "CDBQC0130L-HF"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CDBQC0130L-HF%20RevB681116.pdf"
 			(at 130.81 120.65 0)
 			(effects
 				(font
@@ -8241,7 +8259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 234.95 41.91 0)
 			(effects
 				(font
@@ -8250,7 +8268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402JRX7R9BB472"
+		(property "Part Number" "GRM155R61H472KA01D "
 			(at 234.95 41.91 0)
 			(effects
 				(font
@@ -8259,7 +8277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "50"
 			(at 234.95 41.91 0)
 			(effects
 				(font
@@ -8308,7 +8326,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "beaaa85f-349d-433c-ab51-1c800b72eed0")
 		(property "Reference" "TP11"
 			(at 114.3 167.64 90)
@@ -8405,7 +8423,7 @@
 		(fields_autoplaced yes)
 		(uuid "c73a7987-1430-4274-974b-1ed5cc6fd2ea")
 		(property "Reference" "R24"
-			(at 133.35 85.09 0)
+			(at 133.35 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8413,8 +8431,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k2"
-			(at 133.35 87.63 0)
+		(property "Value" "680"
+			(at 133.35 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8467,7 +8485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-071K2L"
+		(property "Part Number" "RC0402FR-07680RP"
 			(at 130.81 86.36 0)
 			(effects
 				(font
@@ -8825,7 +8843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402JRX7R7BB101"
+		(property "Part Number" "CC0402JRNPO9BN101"
 			(at 217.17 50.8 0)
 			(effects
 				(font
@@ -8834,7 +8852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "50"
 			(at 217.17 50.8 0)
 			(effects
 				(font
@@ -8912,7 +8930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_type_c_connector_cable.pdf"
 			(at 208.28 90.17 0)
 			(effects
 				(font
@@ -9078,7 +9096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RT0402BRD073K3L"
+		(property "Part Number" "RC0402FR-070RL"
 			(at 119.38 172.72 0)
 			(effects
 				(font
@@ -9497,7 +9515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "25"
 			(at 226.06 27.94 0)
 			(effects
 				(font
@@ -9515,7 +9533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM188C71C225KE11D"
+		(property "Part Number" "GRM188R61E225KA12D"
 			(at 226.06 27.94 0)
 			(effects
 				(font
@@ -9640,7 +9658,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "edb84318-52cd-41c3-a1cf-58565b1e36f7")
 		(property "Reference" "TP10"
 			(at 114.3 138.43 90)
@@ -9829,7 +9847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://optoelectronics.liteon.com/upload/download/DS22-2000-222/LTST-C191KFKT.pdf"
 			(at 130.81 78.74 0)
 			(effects
 				(font
@@ -9945,7 +9963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "CDBQC0130L-HF"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CDBQC0130L-HF%20RevB681116.pdf"
 			(at 130.81 149.86 0)
 			(effects
 				(font
