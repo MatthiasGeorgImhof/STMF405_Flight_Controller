@@ -34,6 +34,7 @@ fp-info-cache
 
 # Gerber
 *.gbr
+*.gbrjob
 *.pdf
 *.drl
 

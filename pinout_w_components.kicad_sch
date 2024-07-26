@@ -9984,7 +9984,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "YELLOW GPIO"
+		(property "Value" "ORANGE GPIO"
 			(at 133.35 78.74 90)
 			(effects
 				(font
