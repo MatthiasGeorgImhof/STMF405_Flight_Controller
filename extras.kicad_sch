@@ -309,7 +309,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b3b928e-23d8-4953-94aa-34b6b2b24f8f")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR01150"
 			(at 90.17 34.29 0)
 			(effects
 				(font
@@ -360,7 +360,7 @@
 		(instances
 			(project "STMF405_Flight_Controller"
 				(path "/081b6834-111b-4762-b46a-30e0e37972ed/d35f4183-2795-4792-8227-02977bf9fe52"
-					(reference "#PWR0122")
+					(reference "#PWR01150")
 					(unit 1)
 				)
 			)
@@ -659,7 +659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9a37499-d5d4-448f-a16d-39e6b47952ba")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR01149"
 			(at 58.42 34.29 0)
 			(effects
 				(font
@@ -710,7 +710,7 @@
 		(instances
 			(project "STMF405_Flight_Controller"
 				(path "/081b6834-111b-4762-b46a-30e0e37972ed/d35f4183-2795-4792-8227-02977bf9fe52"
-					(reference "#PWR0121")
+					(reference "#PWR01149")
 					(unit 1)
 				)
 			)
@@ -727,7 +727,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df267ebe-7977-481c-9867-d957d4c7650e")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR01151"
 			(at 119.38 34.29 0)
 			(effects
 				(font
@@ -778,7 +778,7 @@
 		(instances
 			(project "STMF405_Flight_Controller"
 				(path "/081b6834-111b-4762-b46a-30e0e37972ed/d35f4183-2795-4792-8227-02977bf9fe52"
-					(reference "#PWR0123")
+					(reference "#PWR01151")
 					(unit 1)
 				)
 			)
@@ -795,7 +795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e00e721b-c385-4369-a05c-07c9c955c926")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR01148"
 			(at 27.94 34.29 0)
 			(effects
 				(font
@@ -846,7 +846,7 @@
 		(instances
 			(project "STMF405_Flight_Controller"
 				(path "/081b6834-111b-4762-b46a-30e0e37972ed/d35f4183-2795-4792-8227-02977bf9fe52"
-					(reference "#PWR0120")
+					(reference "#PWR01148")
 					(unit 1)
 				)
 			)
