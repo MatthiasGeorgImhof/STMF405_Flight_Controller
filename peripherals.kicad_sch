@@ -5266,7 +5266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 255.27 38.1 0)
 			(effects
 				(font
@@ -5275,7 +5275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 255.27 38.1 0)
 			(effects
 				(font
@@ -5759,7 +5759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 22.86 115.57 0)
 			(effects
 				(font
@@ -5768,7 +5768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 22.86 115.57 0)
 			(effects
 				(font
@@ -5901,7 +5901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-071KL"
+		(property "Part Number" "RC0201FR-071KL"
 			(at 123.19 81.28 0)
 			(effects
 				(font
@@ -6123,7 +6123,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "XTSD04G"
+		(property "Value" "CSNP4GCR01-AMW"
 			(at 245.11 49.5299 0)
 			(effects
 				(font
@@ -6141,7 +6141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2005251034_XTX-XTSD08GLGEAG_C558840.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2102221705_Creat-Storage-World-CSNP4GCR01-AMW_C2691596.pdf"
 			(at 238.76 48.26 0)
 			(effects
 				(font
@@ -6159,7 +6159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "XTX"
+		(property "Manufactorer" "Create Storage World"
 			(at 236.22 48.26 0)
 			(effects
 				(font
@@ -6168,7 +6168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "alternates: CSNP4GCR01-AMW (Creat Storage World) or  MKDV4GCL-AB (MK) or ZDSD04G (Zetta) "
+		(property "Note" "alternates: CSNP4GCR01-AMW (Creat Storage World) or  MKDV4GCL-AB (MK) or ZDSD04G (Zetta)  or XTSD04G (XTX)"
 			(at 236.22 67.818 0)
 			(effects
 				(font
@@ -6176,7 +6176,7 @@
 				)
 			)
 		)
-		(property "Part Number" "XTSD04G"
+		(property "Part Number" "CSNP4GCR01-AMW"
 			(at 236.22 48.26 0)
 			(effects
 				(font
@@ -6706,7 +6706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-071KL"
+		(property "Part Number" "RC0201FR-071KL"
 			(at 114.3 81.28 0)
 			(effects
 				(font
@@ -6896,7 +6896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 144.78 119.38 0)
 			(effects
 				(font
@@ -6905,7 +6905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 144.78 119.38 0)
 			(effects
 				(font
@@ -7154,7 +7154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 144.78 160.02 0)
 			(effects
 				(font
@@ -7163,7 +7163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 144.78 160.02 0)
 			(effects
 				(font
@@ -10113,7 +10113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 269.24 125.73 0)
 			(effects
 				(font
@@ -10122,7 +10122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 269.24 125.73 0)
 			(effects
 				(font
@@ -10846,7 +10846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 30.48 36.83 0)
 			(effects
 				(font
@@ -10855,7 +10855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 30.48 36.83 0)
 			(effects
 				(font
@@ -11120,6 +11120,15 @@
 				(hide yes)
 			)
 		)
+		(property "Load Capacitance" "18p"
+			(at 33.02 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38cebf6f-c741-4410-801a-8e45031453f1")
 		)
@@ -11291,7 +11300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-071KL"
+		(property "Part Number" "RC0201FR-071KL"
 			(at 132.08 81.28 0)
 			(effects
 				(font

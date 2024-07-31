@@ -4701,6 +4701,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "20%"
+			(at 114.3 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bd466d84-7cd8-4428-b8fe-00d5475fdfdc")
 		)
@@ -5183,7 +5192,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG60T30ELRX"
+		(property "Value" "PMEG3030CERX"
 			(at 185.42 121.92 0)
 			(effects
 				(font
@@ -5227,7 +5236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "PMEG60T30ELRX"
+		(property "Part Number" "PMEG3030CERX"
 			(at 185.42 124.46 0)
 			(effects
 				(font
@@ -5236,7 +5245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "60"
+		(property "Voltage" "30"
 			(at 185.42 124.46 0)
 			(effects
 				(font
@@ -6678,6 +6687,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "20%"
+			(at 250.19 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3169d7b5-3618-4026-8aae-682be6deeb30")
 		)
@@ -6833,7 +6851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "40"
+		(property "Voltage" "26"
 			(at 62.23 71.12 0)
 			(effects
 				(font
@@ -6884,7 +6902,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG60T30ELRX"
+		(property "Value" "PMEG3030CERX"
 			(at 185.42 106.68 0)
 			(effects
 				(font
@@ -6928,7 +6946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "PMEG60T30ELRX"
+		(property "Part Number" "PMEG3030CERX"
 			(at 185.42 109.22 0)
 			(effects
 				(font
@@ -6937,7 +6955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "60"
+		(property "Voltage" "30"
 			(at 185.42 109.22 0)
 			(effects
 				(font
@@ -7458,6 +7476,15 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" "2"
+			(at 76.2 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "adefbb7a-deec-4902-9b11-fb62d61308cd")
 		)
@@ -7765,6 +7792,15 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" "2.1"
+			(at 132.08 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "62d73941-64ad-4174-b871-f2505989b1d4")
 		)
@@ -7872,6 +7908,15 @@
 			)
 		)
 		(property "Amps" ""
+			(at 151.13 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2.1"
 			(at 151.13 166.37 0)
 			(effects
 				(font
@@ -8234,6 +8279,15 @@
 			)
 		)
 		(property "Amps" ""
+			(at 99.06 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2"
 			(at 99.06 166.37 0)
 			(effects
 				(font

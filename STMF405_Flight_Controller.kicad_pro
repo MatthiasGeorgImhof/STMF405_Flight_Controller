@@ -604,7 +604,7 @@
           "group_by": false,
           "label": "Load Capacitance",
           "name": "Load Capacitance",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

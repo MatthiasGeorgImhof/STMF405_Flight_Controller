@@ -4419,7 +4419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0201FR-071ML"
+		(property "Part Number" "RC0201FR-0710ML"
 			(at 119.38 153.67 0)
 			(effects
 				(font
@@ -6641,7 +6641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 209.55 50.8 0)
 			(effects
 				(font
@@ -6650,7 +6650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402JRNPO9BN101"
+		(property "Part Number" "GRM1555C1H101JA01D"
 			(at 209.55 50.8 0)
 			(effects
 				(font
@@ -7255,7 +7255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0201FR-071ML"
+		(property "Part Number" "RC0201FR-0710ML"
 			(at 119.38 182.88 0)
 			(effects
 				(font
@@ -8300,7 +8300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 152.4 48.26 0)
 			(effects
 				(font
@@ -8309,7 +8309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 152.4 48.26 0)
 			(effects
 				(font
@@ -8989,7 +8989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 217.17 50.8 0)
 			(effects
 				(font
@@ -8998,7 +8998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402JRNPO9BN101"
+		(property "Part Number" "GRM1555C1H101JA01D"
 			(at 217.17 50.8 0)
 			(effects
 				(font
@@ -9679,7 +9679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 226.06 27.94 0)
 			(effects
 				(font
@@ -9688,7 +9688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 226.06 27.94 0)
 			(effects
 				(font
@@ -10057,6 +10057,15 @@
 			)
 		)
 		(property "Amps" ""
+			(at 130.81 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2"
 			(at 130.81 78.74 0)
 			(effects
 				(font

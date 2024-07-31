@@ -6835,7 +6835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 191.77 43.18 0)
 			(effects
 				(font
@@ -6844,7 +6844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 191.77 43.18 0)
 			(effects
 				(font
@@ -7072,7 +7072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 179.07 43.18 0)
 			(effects
 				(font
@@ -7081,7 +7081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 179.07 43.18 0)
 			(effects
 				(font
@@ -7602,7 +7602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 116.84 129.54 0)
 			(effects
 				(font
@@ -7611,7 +7611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 116.84 129.54 0)
 			(effects
 				(font
@@ -7848,7 +7848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 128.27 129.54 0)
 			(effects
 				(font
@@ -7857,7 +7857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KPX5R8BB225"
+		(property "Part Number" "GRT155R61E225KE13D"
 			(at 128.27 129.54 0)
 			(effects
 				(font
@@ -8546,7 +8546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Load Capacitance" "12pF"
+		(property "Load Capacitance" "12p"
 			(at 53.34 161.29 0)
 			(effects
 				(font
