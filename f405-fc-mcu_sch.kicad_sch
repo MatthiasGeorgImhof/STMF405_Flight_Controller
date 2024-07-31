@@ -5675,7 +5675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Project:C_0201_0603Metric"
 			(at 172.4152 46.99 0)
 			(effects
 				(font
@@ -5702,7 +5702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 171.45 43.18 0)
 			(effects
 				(font
@@ -5711,7 +5711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R8BB104"
+		(property "Part Number" "GRM033R61E104KE14J"
 			(at 171.45 43.18 0)
 			(effects
 				(font
@@ -5789,7 +5789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Project:C_0201_0603Metric"
 			(at 105.1052 46.99 0)
 			(effects
 				(font
@@ -5825,7 +5825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 104.14 43.18 0)
 			(effects
 				(font
@@ -5834,7 +5834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R8BB104"
+		(property "Part Number" "GRM033R61E104KE14J"
 			(at 104.14 43.18 0)
 			(effects
 				(font
@@ -6112,7 +6112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Project:R_0201_0603Metric"
 			(at 195.58 140.208 90)
 			(effects
 				(font
@@ -6148,7 +6148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-0722RP"
+		(property "Part Number" "RC0201FR-0722RL"
 			(at 195.58 138.43 0)
 			(effects
 				(font
@@ -6209,7 +6209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Project:R_0201_0603Metric"
 			(at 216.662 111.76 90)
 			(effects
 				(font
@@ -6263,7 +6263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "Part Number" "RC0201FR-075K1L"
 			(at 218.44 111.76 0)
 			(effects
 				(font
@@ -6312,7 +6312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Project:R_0201_0603Metric"
 			(at 199.39 71.628 90)
 			(effects
 				(font
@@ -6348,7 +6348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-0722RP"
+		(property "Part Number" "RC0201FR-0722RL"
 			(at 199.39 69.85 0)
 			(effects
 				(font
@@ -6400,7 +6400,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "22k1"
 			(at 106.68 67.31 0)
 			(effects
 				(font
@@ -6409,7 +6409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Project:R_0201_0603Metric"
 			(at 102.362 66.04 90)
 			(effects
 				(font
@@ -6454,7 +6454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-0722KL"
+		(property "Part Number" "RC0201FR-0722K1L"
 			(at 104.14 66.04 0)
 			(effects
 				(font
@@ -6523,7 +6523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Project:C_0201_0603Metric"
 			(at 120.3452 46.99 0)
 			(effects
 				(font
@@ -6559,7 +6559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 119.38 43.18 0)
 			(effects
 				(font
@@ -6568,7 +6568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R8BB104"
+		(property "Part Number" "GRM033R61E104KE14J"
 			(at 119.38 43.18 0)
 			(effects
 				(font
@@ -6712,7 +6712,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Project:R_0201_0603Metric"
 			(at 199.39 76.708 90)
 			(effects
 				(font
@@ -6748,7 +6748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-0722RP"
+		(property "Part Number" "RC0201FR-0722RL"
 			(at 199.39 74.93 0)
 			(effects
 				(font
@@ -6799,7 +6799,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "2u2"
 			(at 195.58 44.45 0)
 			(effects
 				(font
@@ -6808,7 +6808,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 192.7352 46.99 0)
 			(effects
 				(font
@@ -6844,7 +6844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0603KRX5R8BB105"
+		(property "Part Number" "CC0402KPX5R8BB225"
 			(at 191.77 43.18 0)
 			(effects
 				(font
@@ -6922,7 +6922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Project:C_0201_0603Metric"
 			(at 49.2252 64.77 0)
 			(effects
 				(font
@@ -6958,7 +6958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 48.26 60.96 0)
 			(effects
 				(font
@@ -6967,7 +6967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R8BB104"
+		(property "Part Number" "GRM033R61E104KE14J"
 			(at 48.26 60.96 0)
 			(effects
 				(font
@@ -7036,7 +7036,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "2u2"
 			(at 177.8 35.56 0)
 			(effects
 				(font
@@ -7045,7 +7045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 180.0352 46.99 0)
 			(effects
 				(font
@@ -7081,7 +7081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0603KRX5R8BB105"
+		(property "Part Number" "CC0402KPX5R8BB225"
 			(at 179.07 43.18 0)
 			(effects
 				(font
@@ -7157,7 +7157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Project:R_0201_0603Metric"
 			(at 195.58 135.128 90)
 			(effects
 				(font
@@ -7193,7 +7193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-0722RP"
+		(property "Part Number" "RC0201FR-0722RL"
 			(at 195.58 133.35 0)
 			(effects
 				(font
@@ -7289,7 +7289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 62.23 171.45 0)
 			(effects
 				(font
@@ -7298,7 +7298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402GRNPO9BN160"
+		(property "Part Number" "GCM1555C1H160FA16D"
 			(at 62.23 171.45 0)
 			(effects
 				(font
@@ -7376,7 +7376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Project:C_0201_0603Metric"
 			(at 112.7252 46.99 0)
 			(effects
 				(font
@@ -7412,7 +7412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 111.76 43.18 0)
 			(effects
 				(font
@@ -7421,7 +7421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R8BB104"
+		(property "Part Number" "GRM033R61E104KE14J"
 			(at 111.76 43.18 0)
 			(effects
 				(font
@@ -7566,7 +7566,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 117.8052 133.35 0)
 			(effects
 				(font
@@ -7602,7 +7602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "Murata"
+		(property "Manufactorer" "YAGEO"
 			(at 116.84 129.54 0)
 			(effects
 				(font
@@ -7611,7 +7611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM188R61E225KA12D"
+		(property "Part Number" "CC0402KPX5R8BB225"
 			(at 116.84 129.54 0)
 			(effects
 				(font
@@ -7812,7 +7812,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 129.2352 133.35 0)
 			(effects
 				(font
@@ -7848,7 +7848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "Murata"
+		(property "Manufactorer" "YAGEO"
 			(at 128.27 129.54 0)
 			(effects
 				(font
@@ -7857,7 +7857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM188R61E225KA12D"
+		(property "Part Number" "CC0402KPX5R8BB225"
 			(at 128.27 129.54 0)
 			(effects
 				(font
@@ -7936,7 +7936,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Project:R_0201_0603Metric"
 			(at 235.712 121.92 90)
 			(effects
 				(font
@@ -7990,7 +7990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "Part Number" "RC0201FR-075K1L"
 			(at 237.49 121.92 0)
 			(effects
 				(font
@@ -8245,7 +8245,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Project:C_0201_0603Metric"
 			(at 127.9652 46.99 0)
 			(effects
 				(font
@@ -8281,7 +8281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 127 43.18 0)
 			(effects
 				(font
@@ -8290,7 +8290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R8BB104"
+		(property "Part Number" "GRM033R61E104KE14J"
 			(at 127 43.18 0)
 			(effects
 				(font
@@ -8690,7 +8690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Project:R_0201_0603Metric"
 			(at 196.342 111.76 90)
 			(effects
 				(font
@@ -8744,7 +8744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "Part Number" "RC0201FR-075K1L"
 			(at 198.12 111.76 0)
 			(effects
 				(font
@@ -8996,7 +8996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 43.18 171.45 0)
 			(effects
 				(font
@@ -9005,7 +9005,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402GRNPO9BN160"
+		(property "Part Number" "GCM1555C1H160FA16D"
 			(at 43.18 171.45 0)
 			(effects
 				(font
@@ -9084,7 +9084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Project:R_0201_0603Metric"
 			(at 257.302 121.92 90)
 			(effects
 				(font
@@ -9138,7 +9138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "Part Number" "RC0201FR-075K1L"
 			(at 259.08 121.92 0)
 			(effects
 				(font
@@ -9779,7 +9779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Project:C_0201_0603Metric"
 			(at 97.4852 46.99 0)
 			(effects
 				(font
@@ -9815,7 +9815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactorer" "YAGEO"
+		(property "Manufactorer" "Murata"
 			(at 96.52 43.18 0)
 			(effects
 				(font
@@ -9824,7 +9824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R8BB104"
+		(property "Part Number" "GRM033R61E104KE14J"
 			(at 96.52 43.18 0)
 			(effects
 				(font
