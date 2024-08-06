@@ -8057,7 +8057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project:PQFN50P300X250X97-14N"
+		(property "Footprint" "Project:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y_no_mask_bridges"
 			(at 77.47 167.64 0)
 			(effects
 				(font
